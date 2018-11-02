@@ -1,0 +1,3 @@
+/home/tbf/projects/test/pcl/tutorials/ros_pcl/template_alignment/build/CMakeFiles/edit_cache.dir
+/home/tbf/projects/test/pcl/tutorials/ros_pcl/template_alignment/build/CMakeFiles/rebuild_cache.dir
+/home/tbf/projects/test/pcl/tutorials/ros_pcl/template_alignment/build/CMakeFiles/template_alignment.dir

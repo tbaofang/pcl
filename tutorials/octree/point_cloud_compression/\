@@ -1,0 +1,36 @@
+/*************************************************************************
+    > File Name: point_cloud_compression.cpp
+    > Author: tangbf
+    > Mail: 
+    > Created Time: 2018年10月27日 星期六 16时53分16秒
+ ************************************************************************/
+
+
+#include <pcl/point_cloud.h>
+#include <pcl/point_types.h>
+#include <pcl/io/openni_grabber.h>
+#include <pcl/visualization/cloud_viewer.h>
+#include <pcl/compression/octree_pointcloud_compression.h>
+
+#include <iostream>
+#include <stdio.h>
+#include <sstream>
+#include <stdlib.h>
+
+using namespace std;
+
+class SimpleOpenNIViewer
+{
+public:
+	SimpleOpenNIViewer() : viewer ("Point Cloud Compression Example")
+	{
+	}
+}
+
+int main(int argc, char** argv)
+{
+	SimpleOpenNIViewer v;
+	v.run();
+
+	return 0;
+}

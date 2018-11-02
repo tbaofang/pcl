@@ -1,0 +1,2 @@
+add_subdirectory(segmentation)
+add_subdirectory(feature)

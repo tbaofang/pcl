@@ -1,0 +1,3 @@
+/home/tbf/projects/demo/pcl/tutorials/surface/moving_least_squares/build/CMakeFiles/edit_cache.dir
+/home/tbf/projects/demo/pcl/tutorials/surface/moving_least_squares/build/CMakeFiles/rebuild_cache.dir
+/home/tbf/projects/demo/pcl/tutorials/surface/moving_least_squares/build/CMakeFiles/demo.dir
