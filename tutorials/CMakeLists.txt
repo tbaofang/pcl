@@ -1,2 +1,3 @@
 add_subdirectory(segmentation)
 add_subdirectory(feature)
+add_subdirectory(registration)
