@@ -13,3 +13,8 @@ ADD_DEFINITIONS(${PCL_DEFINITIONS})
 set(NDT normal_distribution_transform)
 ADD_EXECUTABLE(${NDT} src/${NDT})
 TARGET_LINK_LIBRARIES(${NDT} ${PCL_LIBRARIES})
+
+set(AP alignment_prerejective)
+ADD_EXECUTABLE(${AP} src/${AP})
+TARGET_LINK_LIBRARIES(${AP} ${PCL_LIBRARIES})
+
